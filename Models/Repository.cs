@@ -18,11 +18,11 @@ namespace MovieApp.Models
         {
             _movies = new List<Movie>()
             {
-                new Movie() { Id = 1, Name = "Shazam", Description = "Shazam", imgUrl = "1.jpg" },
-                new Movie() { Id = 1, Name = "Amazing Grace", Description = "Amazing Grace", imgUrl = "2.jpg" },
-                new Movie() { Id = 1, Name = "High Life", Description = "High Life", imgUrl = "3.jpg" },
-                new Movie() { Id = 1, Name = "Billboard", Description = "Billboard", imgUrl = "4.jpg" },
-                new Movie() { Id = 1, Name = "Storm Boy", Description = "Storm Boy", imgUrl = "5.jpg" }
+                new Movie() { Id = 1, Name = "Shazam", Description = "Shazam", ImageUrl = "1.jpg" },
+                new Movie() { Id = 1, Name = "Amazing Grace", Description = "Amazing Grace", ImageUrl = "2.jpg" },
+                new Movie() { Id = 1, Name = "High Life", Description = "High Life", ImageUrl = "3.jpg" },
+                new Movie() { Id = 1, Name = "Billboard", Description = "Billboard", ImageUrl = "4.jpg" },
+                new Movie() { Id = 1, Name = "Storm Boy", Description = "Storm Boy", ImageUrl = "5.jpg" }
 
             };
 
